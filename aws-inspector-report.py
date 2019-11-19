@@ -1,4 +1,4 @@
-##This Script provides you AWS Inspector Findings Report of Current Month from Ative Region having Maximum EC2 Instances
+##This Script provides you AWS Inspector Findings Report of Current Month from Active Region having Maximum EC2 Instances
 ##Please contact Saurabh Shah for any Enhancements/Modifications
 import os,pip
 try:
